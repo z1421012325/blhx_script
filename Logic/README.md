@@ -19,4 +19,6 @@ no complete:
 	油耗警告点击
 	船舱满员并整理警告
 	寻找地方船只
+
+	renwu tiao chu 
 ```
