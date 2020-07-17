@@ -20,5 +20,6 @@ no complete:
 	船舱满员并整理警告
 	寻找地方船只
 
-	renwu tiao chu 
+	新任务
+	路过资源问号点
 ```
